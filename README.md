@@ -12,8 +12,11 @@ For Debian based distro:
 
 # Download
 On Linux:
+
 | 0. See IMPORTANT
+
 | 1. Run 'git clone https://github.com/S3b-sudo/Viditerm' in the terminal or download the code as a zip
+
 | 2. Run the install file 'python install.py'
 
 On Windows:
