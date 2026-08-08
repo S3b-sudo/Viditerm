@@ -12,10 +12,16 @@ Run 'sudo apt install mpv'
 
 # Download
 On Linux:
-0. See IMPORTANT
+
+0. See **IMPORTANT**
 1. Run `'git clone https://github.com/S3b-sudo/Viditerm'` in the terminal or download the code as a zip
-2. Run the install file 'python install.py'
+2. Run the install file with `'python install.py'`
 
 On Windows:
+
 ¯\_(ツ)_/¯
-Maybe try WSL?
+Maybe try WSL? 
+
+## Run
+
+To run the project run `'./run.sh'`
