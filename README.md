@@ -25,4 +25,4 @@ Maybe try WSL?
 ## Run
 
 To run the project run `'./run.sh'`
- > if you get Permission denied. Run `'chmod +x filename.sh'`   
+ > if you get Permission denied. Run `'chmod +x run.sh'`   
