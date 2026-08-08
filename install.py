@@ -1,0 +1,13 @@
+import os
+print("Viditerm Installer")
+print("==================")
+input("Press 'Return' to begin: ")
+print("Creating virtual python environment...")
+os.system("python -m venv vite")
+print("==================")
+print("Installing dependencies...")
+os.system("source vite/bin/activate && pip install -r requirements.txt")
+print("==================")
+print("Done")
+input("Press 'Return' to quit: ")
+quit()
