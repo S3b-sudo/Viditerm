@@ -30,8 +30,11 @@ To run the project run `'./run.sh'`
 ## Usage
 
 Space - Pause
+
 Right Arrow - 5 seconds forward
+
 Left Arrow - 5 seconds back
+
 Ctrl+C - Stop Video
 
 ## Screenshots
