@@ -20,7 +20,10 @@ On Linux:
 On Windows:
 
 ¯\_(ツ)_/¯
+
 Maybe try WSL? 
+
+Run `'wsl --install'` in powershell or google it if it changed.
 
 ## Run
 
