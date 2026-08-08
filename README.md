@@ -25,4 +25,12 @@ Maybe try WSL?
 ## Run
 
 To run the project run `'./run.sh'`
- > if you get Permission denied. Run `'chmod +x run.sh'`   
+ > if you get Permission denied. Run `'chmod +x run.sh'`
+
+## Screenshots
+
+![Alt](Demo1.png)
+Default mode
+
+![Alt](Demo2.png)
+True Askii mode
