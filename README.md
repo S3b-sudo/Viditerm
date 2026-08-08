@@ -34,3 +34,6 @@ Default mode
 
 ![Alt](Demo2.png)
 True Askii mode
+
+## Notes
+This project is basically just a frount end for mpv in the terminal. It was made to make watching videos in the terminal easy. 
