@@ -23,7 +23,8 @@ On Windows:
 
 Maybe try WSL? 
 
-Run `'wsl --install'` in powershell or google it if it changed.
+1. Run `'wsl --install'` in powershell or google it if it changed.
+2. Follow the Linux portion
 
 ## Run
 
