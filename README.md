@@ -5,10 +5,10 @@ Watch videos in your Linux terminal
 You need to install MPV for this to work
 
 For Fedora based distro: 
-Enable RPM Fusion and run 'sudo dnf install mpv'
+Enable RPM Fusion and run `'sudo dnf install mpv'`
 
 For Debian based distro:
-Run 'sudo apt install mpv'
+Run `'sudo apt install mpv'`
 
 # Download
 On Linux:
