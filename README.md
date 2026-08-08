@@ -1,4 +1,4 @@
-# Viditerm ![Alt](logo.png)
+# ![Alt](logo.png)
 Watch videos in your Linux terminal
 
 # ⚠️ IMPORTANT
