@@ -27,6 +27,13 @@ Maybe try WSL?
 To run the project run `'./run.sh'`
  > if you get Permission denied. Run `'chmod +x run.sh'`
 
+## Usage
+
+Space - Pause
+Right Arrow - 5 seconds forward
+Left Arrow - 5 seconds back
+Ctrl+C - Stop Video
+
 ## Screenshots
 
 ![Alt](Demo1.png)
