@@ -29,7 +29,7 @@ Maybe try WSL?
 ## Run
 
 To run the project run `'./run.sh'`
- > if you get Permission denied. Run `'chmod +x run.sh'`
+ > If you get Permission denied. Run `'chmod +x run.sh'`
 
 ## Usage
 
