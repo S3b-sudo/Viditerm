@@ -7,7 +7,6 @@ MPV installation is automatic for Fedora based and Debian based distros.
 # Download
 On Linux:
 
-0. See **IMPORTANT**
 1. Run `'git clone https://github.com/S3b-sudo/Viditerm'` in the terminal or download the code as a zip
 2. Run the install file with `'python install.py'`
 
