@@ -1,14 +1,8 @@
 # ![Alt](logo.png)
 Watch videos in your Linux terminal
 
-# ⚠️ IMPORTANT
-You need to install MPV for this to work
-
-For Fedora based distro: 
-Enable RPM Fusion and run `'sudo dnf install mpv'`
-
-For Debian based distro:
-Run `'sudo apt install mpv'`
+# Changes
+MPV installation is automatic for Fedora based and Debian based distros.
 
 # Download
 On Linux:
